@@ -32,6 +32,10 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 Решение : 
+![Pipeline] (https://github.com/maxgn87/8-3-Gitlab-hw/blob/main/img/config%20Pipeline.txt)
+![config runner] (https://github.com/maxgn87/8-3-Gitlab-hw/blob/main/img/config%20Runner.jpg)
+![GitLab container] (https://github.com/maxgn87/8-3-Gitlab-hw/blob/main/img/gitlab%20runner%20container.jpg)
+![Runner run] https://github.com/maxgn87/8-3-Gitlab-hw/blob/main/img/%D0%97%D0%B0%D0%BF%D1%83%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20Runner.jpg()
 
 
 
