@@ -49,3 +49,8 @@
 файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;
 скриншоты с успешно собранными сборками.
 
+Решение :
+1. ![Репозиторий] (https://gitlab.com/maxgn87/sdvps-materials.git)
+2. ![Файл сборки] (https://github.com/maxgn87/8-3-Gitlab-hw/blob/main/.gitlab-ci.yml)
+
+
